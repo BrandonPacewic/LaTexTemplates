@@ -8,4 +8,4 @@ compensating for my handwriting.
 
 Copyright (c) Brandon Pacewic
 
-SPDX-License-Identifier: MIT WITH [SirCharlieMars](https://github.com/SirCharlieMars) EXCEPTION
+SPDX-License-Identifier: MIT WITH [SirCharlieMars](https://github.com/SirCharlieMars) Exception
