@@ -1,0 +1,10 @@
+# Copyright (c) Brandon Pacewic
+# SPDX-License-Identifier: MIT
+
+*.pdf
+*.aux
+*.log
+*.fls
+*.toc
+*.fdb_latexmk
+*.synctex.gz
