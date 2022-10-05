@@ -1,0 +1,52 @@
+% Copyright (c) Brandon Pacewic
+% SPDX-License-Identifier: MIT
+
+\documentclass{report}
+
+\input{preamble}
+\input{macros}
+\input{letterfonts}
+
+\title{\Huge{Examples}\\Math / Physics / CS examples}
+\author{\huge{Brandon Pacewic}}
+\date{}
+
+\begin{document}
+
+\maketitle
+\newpage
+\tableofcontents
+\pagebreak
+
+\section{Math}
+
+\begin{displaymath}
+    \frac{1}{2} == \frac{1}{2}
+\end{displaymath}
+
+\begin{align*}
+    \frac{this}{that} &= \frac{this}{that} \\
+\end{align*}
+
+\qs{Before the question}{
+    In the question
+}
+
+\pf{Proof of 1}{
+    Proof of question 1
+
+    \begin{align*}
+        \frac{this}{that} &= \frac{this}{that} \\
+    \end{align*}
+}
+
+\qs{}{
+    The next question?
+}
+
+\pf{This question}{
+   \newline
+   \infty^3
+}
+
+\end{document}
